@@ -1,0 +1,12 @@
+.itemdetails {
+  text-align: center;
+}
+.itemdetails img {
+  width: 300px;
+  height: 350px;
+  margin: 20px 0;
+}
+
+body{
+    max-height: 100vh;
+}

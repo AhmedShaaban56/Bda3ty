@@ -1,0 +1,16 @@
+.SideContainer{
+    background-color: #f8f9fa;
+    height: 100vh;
+    
+}
+.SideContainer a{
+    text-decoration: none;
+    list-style: none;
+}
+.SideContainer li{
+    /* text-decoration: none; */
+    list-style: none;
+    padding: 5px 10px;
+    
+    text-align: center;
+}
